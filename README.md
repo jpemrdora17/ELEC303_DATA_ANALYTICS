@@ -1,1 +1,5 @@
 # ELEC303_DATA_ANALYTICS
+
+Decription
+
+[ACTIVITY 1 ]
